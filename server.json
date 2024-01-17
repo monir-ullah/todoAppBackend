@@ -1,0 +1,72 @@
+[
+  {
+    "todoId": "1",
+    "title": "Study",
+    "description": "Prepare for upcoming exams",
+    "priority": "high",
+    "isCompleted": false
+  },
+  {
+    "todoId": "2",
+    "title": "Exercise",
+    "description": "Go for a jog in the park",
+    "priority": "low",
+    "isCompleted": true
+  },
+  {
+    "todoId": "3",
+    "title": "Read",
+    "description": "Finish the latest novel",
+    "priority": "medium",
+    "isCompleted": false
+  },
+  {
+    "todoId": "4",
+    "title": "Cook",
+    "description": "Try out a new recipe",
+    "priority": "high",
+    "isCompleted": true
+  },
+  {
+    "todoId": "5",
+    "title": "Write",
+    "description": "Start a journal",
+    "priority": "low",
+    "isCompleted": false
+  },
+  {
+    "todoId": "6",
+    "title": "Learn",
+    "description": "Explore a new programming language",
+    "priority": "medium",
+    "isCompleted": true
+  },
+  {
+    "todoId": "7",
+    "title": "Create",
+    "description": "Work on a DIY project",
+    "priority": "high",
+    "isCompleted": false
+  },
+  {
+    "todoId": "8",
+    "title": "Travel",
+    "description": "Plan a weekend getaway",
+    "priority": "low",
+    "isCompleted": true
+  },
+  {
+    "todoId": "9",
+    "title": "Play",
+    "description": "Try a new board game",
+    "priority": "medium",
+    "isCompleted": false
+  },
+  {
+    "todoId": "10",
+    "title": "Listen",
+    "description": "Discover new music",
+    "priority": "high",
+    "isCompleted": true
+  }
+]
